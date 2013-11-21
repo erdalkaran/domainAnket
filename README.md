@@ -1,8 +1,4 @@
 domainAnket
 ===========
 
-Domain anket sistemi
-
--Nasıl kullanılır?
-Bu uygulamada kayit.php sayfasına girerek bir alan adı kaydı yapabilirsiniz.
-anket.php sayfasından bu alan adlarına oy verebilirsiniz.
+Yıldız Teknik Üniversitesi Sürekli Eğitim merkezi web yazılım dersine ait bir örnektir.
